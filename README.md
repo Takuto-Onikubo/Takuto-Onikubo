@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a final-year student at The University of Tokyo.
-- 🐰 I’m a member of [Matsui lab](https://yusukematsui.me/index.html).
-- 🌱 I’m currently studying computer vision.
+- 🔭 I’m currently a first year master course student at The University of Tokyo.
+- 📸 I'm doing research about computer vision at [Satoh lab](https://www.satoh-lab.nii.ac.jp/index.html).
+- 🐰 I studied vision and language at [Matsui lab](https://yusukematsui.me/index.html). (2023.04-2024.03)
 - 🔥 I’m currently interning at [AKARI Inc.](https://akariinc.co.jp/).
-- 📫 How to reach me: onikubo@hal.t.u-tokyo.ac.jp
+- 📫 How to reach me: onikubo@nii.ac.jp
 
 <!--
 **Takuto-Onikubo/Takuto-Onikubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
